@@ -1,0 +1,1 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2D00&width=435&lines=Adamczyli+%3C3;C%23+Developer;SCP+Sl;Open-Source+Enjoyer)](https://git.io/typing-svg)
