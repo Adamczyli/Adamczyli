@@ -10,7 +10,7 @@
 - **[Nazwa Projektu](link)** - Krótki opis
 
 ## 📫 Kontakt
-[![Discord](https://img.shields.io/badge/.czyliadi_-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/twój_id)
+[![Discord](https://img.shields.io/badge/.czyliadi_-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/386865722510540801)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/twój_profil)
 
 
