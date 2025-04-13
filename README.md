@@ -1,4 +1,6 @@
-# Siema, jestem Adam, bardziej znany pod ksywką Adamczyli, witaj na moim profilu!
+# Siema, jestem Adam, witaj na moim profilu!
+
+## jestem znany pod ksywką Adamczyli, Interesuje się pracą z Frameworkiem Exiled w którym dopiero zaczynam coś robić. :)
 
 
 ## 🛠️ Moje technologie
