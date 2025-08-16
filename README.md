@@ -1,6 +1,6 @@
 # Siema, jestem Adam, witaj na moim profilu!
 
-## jestem znany pod ksywką Adamczyli, Interesuje się pracą z Frameworkiem Exiled w którym dopiero zaczynam coś robić. :)
+## jestem znany pod ksywką Adamczyli lub 02319478_334, Interesuje się pracą z Frameworkiem Exiled w którym dopiero zaczynam coś robić. :)
 
 
 ## 🛠️ Moje technologie
